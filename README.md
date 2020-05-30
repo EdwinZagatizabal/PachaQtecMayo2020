@@ -1,5 +1,5 @@
 # Pachaqtec Mayo 2020
-Esta es mi carpeta de trabajo del curso de **Programación Backend"
+Esta es mi carpeta de trabajo del curso de **Programación Backend**
 ## Contenido
 **Semana 1 Sesión1**
 
