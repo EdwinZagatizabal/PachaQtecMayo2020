@@ -1,7 +1,8 @@
 # Pachaqtec Mayo 2020
 Esta es mi carpeta de trabajo del curso de **Programación Backend**
-![Imagen Pachaqtec](https://yt3.ggpht.com/a/
-![Imagen Twitter](https://img.shields.io/twitter/follow/edzagastizabal?label=Twitter&style=social)
+![Imagen Pachaqtec](https://yt3.ggpht.com/a/)
+[![Imagen Twitter](https://img.shields.io/twitter/follow/edzagastizabal?label=Twitter&style=social)](https://twitter.com/edzagastizabal)
+
 ## Contenido
 **Semana 1 Sesión1**
 
